@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.mimecast
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [amazon-api-gateway, annotation-api, app-name, aws-lambda, aws-parameter-store, aws-secrets-manager, aws-v2-sdk, http-client, jackson-databind, java, java-application, junit, logback, maven, netty-server, reactor, reactor-http-client, readme, shade, testcontainers, yaml]
